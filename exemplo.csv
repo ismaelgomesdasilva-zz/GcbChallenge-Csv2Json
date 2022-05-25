@@ -1,6 +1,6 @@
-Nome,Stack
-José,FRONT
-Maria,BACK
-Lucas,FRONT
-Silvia,FRONT
-Adriana,BACK
+Nome,Stack,id
+José,FRONT,3123
+Maria,BACK,123 
+Lucas,FRONT,123
+Silvia,FRONT,9876
+Adriana,BACK,234567
